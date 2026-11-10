@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Phuc 👋
+
+I'm curious about Mr. Market and consumer behavior.
+I enjoy guessing why, then finding out if I'm wrong.
+I'm interested in measuring what can be measured, and making measurable what cannot be.
+
+### 🛠 Tools
+Python (pandas, scikit-learn, statsmodels) · SQL (BigQuery) · Power BI (Power Query, DAX) · Excel
+
+### 📫 Contact
+[phuctran120116@gmail.com](mailto:phuctran120116@gmail.com) · Hanoi, Vietnam
 
 <!--
 **phuctran120116-stack/phuctran120116-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
